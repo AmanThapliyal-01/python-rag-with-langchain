@@ -1,0 +1,18 @@
+
+        Hi, I'm Aman Thapliyal 👋
+
+Backend Software Developer with 3+ years of experience building scalable backend systems, cloud-native applications, and AI-powered solutions.
+
+💻 Tech Stack
+
+Languages: C#, Java, SQL, Python
+Backend: ASP.NET Core, Spring Boot, REST APIs, Microservices
+Databases: SQL Server, PostgreSQL, Azure Cosmos DB
+Cloud: Microsoft Azure, Azure DevOps, CI/CD
+
+🚀 What I Work On
+Backend Engineering
+Distributed Systems
+System Design
+API & Database Design
+AI-powered Applications
